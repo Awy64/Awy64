@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Postman API 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Awy64&show_icons=true)
+
+
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/adam-w-young1/) 👨🏻‍💻
