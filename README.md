@@ -1,6 +1,6 @@
 ### Welcome to my github page. :D
 ### 💬 About Me
-I am a navy veteran, serving as a information technician for 8 years in the reserves. I have had a passion for fixing things be it game consoles, computer hardware, software, and recently code errors. I relax by playing video games and watching youtube videos on my days off. 
+I am a navy veteran, once serving as a information technician for 8 years in the reserves. I have had a passion for fixing things be it game consoles, computer hardware, software, and recently code errors. I relax by playing video games and watching youtube videos on my days off. 
 <!--
 **Awy64/Awy64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
